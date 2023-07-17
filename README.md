@@ -1,3 +1,7 @@
+### data used https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch
+
+
+
 ### Create virtual environment with Python 3.9.10 binary, activate it
 ```
 python3.9 -m venv env
