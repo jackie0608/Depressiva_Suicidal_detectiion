@@ -1,4 +1,5 @@
-### data used https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch
+### Full data set used https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch
+### only part of test set is uploaded in this repository since file size limitation
 
 
 
